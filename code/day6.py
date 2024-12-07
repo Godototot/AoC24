@@ -83,6 +83,7 @@ def part1(input_data):
     return sum_visited_places
 
 def evaluate_lab_map(current_pos, lab_map):
+    # not working yet - wrong approach
     dir_map = [[Directions("UP") for i in range(len(lab_map[0]))] for i in range(len(lab_map))]
     moving_dir = Directions("UP")
     next_pos = current_pos + moving_dir.dir_coords
@@ -107,6 +108,7 @@ def evaluate_lab_map(current_pos, lab_map):
     return False
 
 def part2(input_data):
+    # not working yet
     current_pos, lab_map = input_data
     sum_of_possible_positions = 0
     for y in range(len(lab_map)):
