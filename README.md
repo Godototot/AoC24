@@ -1,5 +1,5 @@
-![Badge: 'stars: 8'](https://img.shields.io/badge/stars%20%E2%AD%90-8-yellow)
-![Badge: 'days completed: 4'](https://img.shields.io/badge/days%20completed-4-blue)
+![Badge: 'stars: 10'](https://img.shields.io/badge/stars%20%E2%AD%90-10-yellow)
+![Badge: 'days completed: 5'](https://img.shields.io/badge/days%20completed-5-blue)
 ![Badge: 'days half completed: 0'](https://img.shields.io/badge/days%20half%20completed-0-lightblue)
 # AoC24
 My Advent Of Code Solutions for 2024

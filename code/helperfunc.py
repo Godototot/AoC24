@@ -20,3 +20,8 @@ def alt_module(i, length):
         return (i % length)-length
     else:
         return i % length
+
+class Coordinates:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
